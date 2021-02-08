@@ -1,0 +1,22 @@
+{
+  "name": "exercicios-WEB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jquery": "^3.5.1",
+    "lodash": "^4.17.20",
+    "node-sass": "^5.0.0",
+    "node-schedule": "^1.3.0"
+  },
+  "devDependencies": {
+    "popper.js": "1.14.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
